@@ -4,7 +4,7 @@ Eugene Sokolov
 ### Contact information:[](#contact-information)
 
 **Phone:** +38 068 4158382  
-**E-mail:** itx_2003@mail.ru  
+**E-mail:** showpage@mail.ru  
 **Telegram:** @seoptex 
 
 
@@ -17,7 +17,7 @@ I strive for the full realization of design ideas.
 
 * * *
 
-### Skills:[](#skills-and-proficiency)
+### Skills:[](#skills)
 
 *   HTML5, CSS3
 *   JavaScript Basics
