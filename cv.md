@@ -1,12 +1,9 @@
-[rsschool-cv](https://seoptex.github.io/rsschool-cv/)
-===========================================================
-
 Eugene Sokolov
 ===============
 
 ### Contact information:[](#contact-information)
 
-**Phone:** +38 067 4148381  
+**Phone:** +38 068 4158382  
 **E-mail:** itx_2003@mail.ru  
 **Telegram:** @seoptex 
 
