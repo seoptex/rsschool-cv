@@ -1,2 +1,2 @@
 # rsschool-cv
-сurriculum vitae
+
